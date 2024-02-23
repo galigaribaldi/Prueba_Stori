@@ -1,4 +1,4 @@
-module Users/galigaribaldi/Documents/PPropios/Prueba_Stori
+module Prueba_Stori
 
 go 1.20
 
